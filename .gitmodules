@@ -1,0 +1,6 @@
+[submodule "cs147-kyuri"]
+	path = cs147-kyuri
+	url = https://github.com/curlymess/cs147-kyuri
+[submodule "a4-spotify2"]
+	path = a4-spotify2
+	url = https://github.com/curlymess/a4-spotify2
