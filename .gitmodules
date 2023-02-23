@@ -7,3 +7,6 @@
 [submodule "cs47-a2-starter"]
 	path = cs47-a2-starter
 	url = https://github.com/curlymess/cs47-a2-starter
+[submodule "assignment-3-spotify"]
+	path = assignment-3-spotify
+	url = https://github.com/curlymess/assignment-3-spotify-starter
