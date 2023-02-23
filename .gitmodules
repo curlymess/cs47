@@ -4,3 +4,6 @@
 [submodule "a4-spotify2"]
 	path = a4-spotify2
 	url = https://github.com/curlymess/a4-spotify2
+[submodule "cs47-a2-starter"]
+	path = cs47-a2-starter
+	url = https://github.com/curlymess/cs47-a2-starter
